@@ -1,0 +1,31 @@
+Bootstrap 4
+
+https://getbootstrap.com/
+
+Work Sans Font
+
+https://fonts.google.com/specimen/Work+Sans
+
+IconFont
+
+https://icofont.com/
+
+Portfolio Images
+
+https://dribbble.com/
+
+Smooth Scroll
+
+https://github.com/cferdinandi/smooth-scroll
+
+jQuery
+
+https://code.jquery.com/
+
+Slick
+
+https://kenwheeler.github.io/slick/
+
+Images Hover Animations By:Stas Melnikov
+
+https://codepen.io/melnik909
